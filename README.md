@@ -7,7 +7,7 @@ This is simple photo gallery app. In which I used the Infinite Scrolling to get 
 
 **Deploy Link**
 ``
-   <a href="https://exactspace.vercel.app/">Link</a>
+    https://exactspace.vercel.app/
 ``
 
 
