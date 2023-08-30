@@ -1,4 +1,4 @@
-# exactSpace-assignment
+# ExactSpace-Photo-Gallery_Assignment
 This is simple photo gallery app. In which I used the Infinite Scrolling to get data. Whenever we reach end of the page it call the fetch function with new page
 
 **Home Page**
